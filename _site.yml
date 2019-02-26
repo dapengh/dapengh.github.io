@@ -1,0 +1,25 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Dapeng Hu"
+  href: index.html
+  left:
+    - text: "Project"
+      icon: fa-briefcase
+      menu:
+        - text: "Network Meta-Analysis"
+          href: NMA.html
+        - text: "Disease Transmission"
+          href: Prev.html
+    - text: "Packages"
+      icon: fa-cube
+      href: Pack.html
+  right:
+    - icon: fa-github-square
+      href: https://github.com/dapengh
+
+output:
+  html_document:
+    theme: united
+    highlight: tango
+    css: styles.css

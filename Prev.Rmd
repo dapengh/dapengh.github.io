@@ -1,0 +1,6 @@
+---
+title: "Disease Transmission"
+---
+
+
+The other project that I am working on is to build a bayesian model to assess the within and between pen transmission of M.hyopneumoniae (An infectious respiratory disease in swine) in a barn. The interesting part is we don't know whether the pigs are infected or not. We only have different types (Serology, Tracheal swab and Oral fluid) of diagnostic test results.

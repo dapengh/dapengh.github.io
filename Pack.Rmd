@@ -1,0 +1,15 @@
+---
+title: "Packages"
+---
+
+## Here are some packages I think are useful for doing network meta-analysis
+
+[gemtc](https://cran.r-project.org/web/packages/gemtc/index.html): A package for doing network meta-analysis under Bayesian framework.
+
+[pcnetmeta](https://cran.r-project.org/web/packages/pcnetmeta/index.html): Another package for doing network meta-analysis under Bayesian framework. It's less functional but faster than `gemtc`.
+
+[netmeta](https://cran.r-project.org/web/packages/netmeta/index.html): A package for doing network meta-analysis under frequentist framework.
+
+[igraph](https://cran.r-project.org/web/packages/igraph/index.html): Useful package for network visualization.
+
+
