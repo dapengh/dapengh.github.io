@@ -1,6 +1,0 @@
----
-title: "Welcome to my website"
----
-
-
-I am Dapeng Hu, a Ph.D student in [Department of Statistics, Iowa State Univerisy](https://www.stat.iastate.edu). I am interested in Biostatistics and Network meta-analysis. Besides Statistics, I like all kinds of electronic devices. 
